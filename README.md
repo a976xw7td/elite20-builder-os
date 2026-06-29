@@ -46,3 +46,6 @@ Start here:
 - `challenges/rubric-template.md`: standard scoring format
 - `challenges/sample-challenge-01.md`: first sample Challenge
 - `agents/agent-collaboration-flow.md`: how the first three agents work together
+- `.github/ISSUE_TEMPLATE/`: GitHub issue templates for Challenges and submissions
+- `reviews/evaluation-report-template.md`: standard review report format
+- `prompts/`: reusable prompts for the first three agents
