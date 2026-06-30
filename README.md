@@ -51,6 +51,7 @@ Start here:
 - `docs/vision.md`: what Elite20 Builder OS is for
 - `docs/workflow.md`: the main operating workflow
 - `docs/mvp-roadmap.md`: phased MVP plan
+- `docs/progress-report.md`: Chinese project progress report for group sharing
 - `ontology/challenge-ontology.md`: how Challenge connects to Skill, Agent, Rubric, and Knowledge
 - `challenges/challenge-template.md`: standard Challenge format
 - `challenges/rubric-template.md`: standard scoring format
