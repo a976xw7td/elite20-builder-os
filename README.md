@@ -52,9 +52,8 @@ Start here:
 - `docs/vision.md`: what Elite20 Builder OS is for
 - `docs/workflow.md`: the main operating workflow
 - `docs/mvp-roadmap.md`: phased MVP plan
-- `docs/phase2-builder-task-plan.md`: Phase II tasks, modules, team assignments, and submission rules
+- `docs/phase2-builder-task-plan.md`: Phase II tasks, modules, team assignments, submission rules, and Phase I background appendix
 - `docs/progress-report.md`: Chinese project progress report for group sharing
-- `docs/phase1-background-summary.md`: Phase I background and lessons from the chat logs
 - `teams/team-roadmap.md`: seven-team responsibility and folder map
 - `teams/github-submission-guide.md`: whether to use this repo or separate team repos
 - `ontology/challenge-ontology.md`: how Challenge connects to Skill, Agent, Rubric, and Knowledge
