@@ -39,7 +39,7 @@ node scripts/build-search-index.js
 本地运行方式：
 
 ```bash
-cd nseap-knowledge-base/app
+cd knowledge-base/knowledge-cognitive-cell/app
 python -m http.server 8000
 ```
 
@@ -86,7 +86,7 @@ docs/backend-implementation-baseline.md
 ## 目录结构
 
 ```text
-nseap-knowledge-base/
+knowledge-base/knowledge-cognitive-cell/
   README.md
   MVP.md
   CONTRIBUTING.md
