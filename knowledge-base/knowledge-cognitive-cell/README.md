@@ -12,6 +12,8 @@
 app/index.html
 ```
 
+说明：静态 Demo 是当前阶段的最小验证方式，用来展示知识模型、搜索、分类、关系和知识增长流程。正式设计目标不是停留在静态页面，而是后续升级为带后端、数据库和在线维护能力的 Knowledge Repository。
+
 它用于验证未来 FDE Workbench 中两个能力的产品逻辑：
 
 - 知识仓库（Knowledge Repository）
