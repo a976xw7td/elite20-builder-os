@@ -20,6 +20,14 @@ README.md / PRODUCT-SPEC.md / PRODUCT-SPEC.docx
 prototype.html / demo link / GitHub repo / template files / schema files
 ```
 
+如果需要 AI 帮忙整理材料，可以使用：
+
+```text
+docs/elite20-builder-submission-ai-protocol.md
+```
+
+这份协议可以复制到 Claude、Codex、Hermes、ChatGPT 等工具中使用。
+
 ## 每组必须说明的内容
 
 每个小组提交时，建议至少回答下面 8 个问题。
